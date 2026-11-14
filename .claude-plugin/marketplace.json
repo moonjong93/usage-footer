@@ -1,0 +1,5 @@
+{
+  "name": "usage-footer",
+  "owner": { "name": "moonjong93" },
+  "plugins": [{ "name": "usage-footer", "source": "./", "description": "Model, effort, context, 5-hour and weekly usage in the Claude Code footer" }]
+}

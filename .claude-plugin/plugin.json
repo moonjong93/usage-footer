@@ -1,0 +1,1 @@
+{ "name": "usage-footer", "version": "0.1.0", "description": "Shows model, effort, context and 5-hour/weekly usage with reset times in the Claude Code footer", "license": "MIT", "types": "./types/index.d.ts" }
